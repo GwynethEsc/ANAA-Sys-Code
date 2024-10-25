@@ -1,2 +1,2 @@
 # ANAA-Sys
-Availability Notification, and Alerting System (A Capstone Project)
+Availability Notification And Alerting System (A Capstone Project)
